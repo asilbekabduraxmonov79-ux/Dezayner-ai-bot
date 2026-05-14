@@ -11,8 +11,8 @@ from aiogram.fsm.context import FSMContext
 from aiogram.fsm.state import State, StatesGroup
 
 # ========== KONFIGURATSIYA ==========
-API_TOKEN = os.environ.get("BOT_TOKEN", "YOUR_BOT_TOKEN_HERE")
-GROQ_API_KEY = os.environ.get("GROQ_API_KEY", "gsk_your_api_key_here")
+API_TOKEN = os.environ.get("BOT_TOKEN", "8949411770:AAFlkth_Jm3ag5v9NvIkyBqhyCpMee-rIW8")
+GROQ_API_KEY = os.environ.get("GROQ_API_KEY", "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")
 
 bot = Bot(token=API_TOKEN)
 dp = Dispatcher()
