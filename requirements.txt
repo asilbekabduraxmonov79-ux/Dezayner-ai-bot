@@ -1,2 +1,4 @@
 aiogram
 groq
+aiohttp
+yt-dlp
